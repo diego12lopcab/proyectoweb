@@ -1,3 +1,4 @@
+<img src="vistas/IMG/imagenfondofooter.png" height="200px" width="100%">
 <?php require_once("Layout/header.php");?>
 <h1>vuelos amazing</h1>
 <br>
