@@ -18,7 +18,7 @@
     <div class="col">
       <div class="card" style="width: 18rem;">
         <div class="card-body">
-          <h5 class="card-title">quienes somos</h5>
+          <h5 class="card-title">quienes somos?</h5>
           <p class="card-text">empresa que contiene diversos servicios para que las personas
           creen hermosos recuerdos en sus vacaciones de forma sencilla, y de esta forma no tenga el viaje soñado sin necesitar de visitar muchas paginas para planear.
           </p>
